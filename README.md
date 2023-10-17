@@ -20,3 +20,11 @@ Full stack banking software with user friendly interface to make banking experie
 
 ● Enhance the customer's ability to project their finances more effectively
 
+# Frontend
+
+Angular
+
+# Backend
+
+Java SpringBoot
+
